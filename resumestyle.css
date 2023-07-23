@@ -1217,11 +1217,20 @@ section:nth-child(odd) .animate.scroll {
   .home .home-content a {
     position: relative;
     width: 16rem;
+    left: 10rem;
+  }
+  .home .home-content .text-animate h3 {
+    font-size: 4rem;
+    position: relative;
+    width: 50rem;
+    left: 10rem;
+   
   }
 
   .home-content h1 {
     display: flex;
     flex-direction: column;
+    left: 10rem;
   }
 
   .home-sci {
@@ -1229,7 +1238,7 @@ section:nth-child(odd) .animate.scroll {
     width: 30rem;
     left: -30rem;
     gap: 1rem;
-    top: 35rem;
+    top: 40rem;
   }
 
   .home-sci a {
@@ -1243,11 +1252,18 @@ section:nth-child(odd) .animate.scroll {
     justify-content: center;
     left: -2rem;
   }
-    .about-content p{
+  .about-content p{
     font-size: 2rem;
     top: 2rem;
-     width: 37rem;
-    left: 3rem;
+    width: 50rem;
+    left: 1rem;
+  }
+  .about .btn-box.btns {
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    left: -1rem;
+    top: 10rem;
   }
 
   .paragraph {
@@ -1299,7 +1315,13 @@ section:nth-child(odd) .animate.scroll {
     justify-content: center;
     left: -2rem;
   }
-    .contact form .input-box .input-field{
+  .contact form .btn-box.btns .btn {
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    left: -2rem;
+  }
+  .contact form .input-box .input-field{
     width: 90%;
     position: relative;
     padding-left: 10rem;
