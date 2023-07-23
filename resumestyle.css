@@ -1343,7 +1343,7 @@ section:nth-child(odd) .animate.scroll {
   .home .home-sci {
     position: absolute;
     left:20rem;
-    top: 120rem;
+    top: 130rem;
     height: 12rem;
   }
 
@@ -1390,6 +1390,8 @@ section:nth-child(odd) .animate.scroll {
   .about-content p{
     font-size: 2rem;
     top: 2rem;
+     width: 37rem;
+    left: 6rem;
   }
   .about .heading{
     position: absolute;
