@@ -1294,7 +1294,7 @@ section:nth-child(odd) .animate.scroll {
     left: -2rem;
   }
 }
-@media screen and (max-width: 332px) {
+@media screen and (max-width: 350px) {
   html {
     font-size: 30%;
   
