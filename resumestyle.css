@@ -1243,6 +1243,12 @@ section:nth-child(odd) .animate.scroll {
     justify-content: center;
     left: -2rem;
   }
+    .about-content p{
+    font-size: 2rem;
+    top: 2rem;
+     width: 37rem;
+    left: 6rem;
+  }
 
   .paragraph {
     text-align: justify;
@@ -1292,6 +1298,15 @@ section:nth-child(odd) .animate.scroll {
     align-items: center;
     justify-content: center;
     left: -2rem;
+  }
+    .contact form .input-box .input-field{
+    width: 90%;
+    position: relative;
+    padding-left: 10rem;
+  }
+  .contact form .textarea-field{
+    width: 90%;
+    padding-left: 10rem;
   }
 }
 @media screen and (max-width: 350px) {
