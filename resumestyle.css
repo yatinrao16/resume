@@ -1295,7 +1295,7 @@ section:nth-child(odd) .animate.scroll {
     background: var(--second-bg-color);
   }
   .home {
-    background-image: url(1234.png);
+    background-image: url(12345.png);
     background-size: cover;
     margin-top: 10rem;
   }
