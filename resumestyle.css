@@ -1295,7 +1295,7 @@ section:nth-child(odd) .animate.scroll {
     background: var(--second-bg-color);
   }
   .home {
-    background-image: url(123456.png);
+    background-image: url(123457.png);
     background-size: cover;
     margin-top: 10rem;
   }
@@ -1450,7 +1450,7 @@ section:nth-child(odd) .animate.scroll {
   .home {
     display: flex;
     position: relative;
-    background-image: url(123456.png);
+    background-image: url(123457.png);
     background-size: cover;
     background-position: top;
     margin-top: 13rem;
