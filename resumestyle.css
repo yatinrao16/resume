@@ -88,7 +88,7 @@ section {
   position: relative;
   align-items: center;
   padding: 0 9%;
-  background: url("profilepicresume.png") no-repeat;
+  background: url("profilepicresume1.png") no-repeat;
   background-size: auto;
   background-position: center;
 }
@@ -1295,7 +1295,7 @@ section:nth-child(odd) .animate.scroll {
     background: var(--second-bg-color);
   }
   .home {
-    background-image: url(12345.png);
+    background-image: url(123456.png);
     background-size: cover;
     margin-top: 10rem;
   }
@@ -1450,7 +1450,7 @@ section:nth-child(odd) .animate.scroll {
   .home {
     display: flex;
     position: relative;
-    background-image: url(12345.png);
+    background-image: url(123456.png);
     background-size: cover;
     background-position: top;
     margin-top: 13rem;
